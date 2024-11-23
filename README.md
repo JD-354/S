@@ -232,7 +232,7 @@
         <div class="hero-content">
             <h1>Las Mejores Marcas de Calzado</h1>
             <p>Encuentra el par perfecto para cada ocasión</p>
-            <a href="https://cdn.flightclub.com/750/TEMPLATE/012451/1.jpg" " class="cta-button">Ver Catálogo</a>
+            <a href="https://cdn.flightclub.com/750/TEMPLATE/012451/1.jpg"> class="cta-button">Ver Catálogo</a>
         </div>
     </section>
 
@@ -295,9 +295,9 @@
             <div class="footer-section">
                 <h3>Enlaces Rápidos</h3>
                 <ul>
-                    <li><a href="#inicio">Inicio</a></li>
-                    <li><a href="#sobre-nosotros">Sobre Nosotros</a></li>
-                    <li><a href="#marcas">Marcas</a></li>
+                    <li><a href="<a href="https://jd-354.github.io/z/">">Inicio</a></li>
+                    
+                    <li><a href="https://jd-354.github.io/N/">Marcas</a></li>
                     <li><a href="#contacto">Contacto</a></li>
                 </ul>
             </div>
@@ -312,4 +312,4 @@
         </div>
     </footer>
     </body>
-    </html>
+    
