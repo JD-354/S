@@ -233,7 +233,7 @@
             <h1>Las Mejores Marcas de Calzado</h1>
             <p>Encuentra el par perfecto para cada ocasión</p>
             <a href="URL_DEL_ENLACE">
-    <img src="https://cdn.flightclub.com/750/TEMPLATE/012451/1.jpg"> alt="Jordan">
+    <img src="https://cdn.flightclub.com/750/TEMPLATE/012451/1.jpg"> 
     </a>
 
         </div>
